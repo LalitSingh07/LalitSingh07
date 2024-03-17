@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lalit Singh
+# Hi 👋, I'm Lalit Singh.
 ## 🔭 I’m currently working on ML Open Cv Data Science <br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for Open source project <br>🌱 I’m currently learning Block chain <br>💬 Ask me about Ml block chain<br>⚡ Fun fact
 
 
