@@ -1,6 +1,20 @@
 # Hi 👋, I'm Lalit Singh
-## 🔭 I’m currently working on ML Open Cv Data Science <br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for Open source project <br>🌱 I’m currently learning Block chain <br>💬 Ask me about Ml block chain<br>⚡ Fun fact
 
+## 🚀 About Me  
+- 🔭 I’m currently working on **Large Language Models (LLMs)**  
+- 👯 Looking to collaborate on **AI/LLM side projects and research**  
+- 🤝 Open to contributing to **open-source GenAI projects**  
+- 🌱 Deep-diving into **Prompt Engineering**, **LangChain**, and **Hugging Face**  
+- 💬 Ask me about **GenAI, Python, Transformers, or LangChain workflows**  
+- ⚡ Fun fact: I’m building my AI journey in public—one model at a time!
+
+## 🧠 Vision  
+I'm passionate about **making AI accessible**, building tools that solve real problems, and continuously learning by creating. My goal is to become a well-rounded **AI developer**, capable of building everything from **chatbots** to **search engines** powered by modern LLMs.
+
+## 📌 Currently Learning
+- Fine-tuning LLMs for real-world tasks  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Building full-stack GenAI apps with Python & Flask
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/L4lit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/#) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/L4lit) 
@@ -18,8 +32,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-###
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lalitsingh07&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
@@ -29,8 +41,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lalitsingh07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Meme Of the Day
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lalitsingh07&icon=0&color=0)](https://visitcount.itsvg.in)
